@@ -77,7 +77,7 @@ For optional functionality:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/hemasriram111/pdf-langchain-bot.git
+   git clone https://github.com/ManasaMusunuri/PDF-Lang-chain-Bot.git
    cd app.py
    ```
 
